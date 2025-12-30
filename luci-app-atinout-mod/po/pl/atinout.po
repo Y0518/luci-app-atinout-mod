@@ -1,50 +1,50 @@
-﻿msgid ""
+msgid ""
 msgstr "Content-Type: text/plain; charset=UTF-8"
 
-"Language: pl\n"
-"Last-Translator: Rafał Wabik (IceG) - From eko.one.pl forum\n"
+"Language: zh_CN\n"
+"Last-Translator: 自动翻译\n"
 
 msgid "AT Commands"
-msgstr "Polecenia AT"
+msgstr "AT 命令"
 
 msgid "AT Commands Terminal"
-msgstr "Terminal poleceń AT"
+msgstr "AT 命令终端"
 
 msgid "Configuration"
-msgstr "Ustawienia"
+msgstr "配置"
 
 msgid "Web UI for sending AT Commands."
-msgstr "Interfejs użytkownika dla atinout do obsługi poleceń AT."
+msgstr "用于发送 AT 命令的 Web 用户界面。"
 
 msgid "User AT Commands"
-msgstr "Polecenia AT użytkownika"
+msgstr "用户自定义 AT 命令"
 
 msgid "Command to send"
-msgstr "Polecenie do wysłania"
+msgstr "要发送的命令"
 
 msgid "Reply"
-msgstr "Odpowiedź"
+msgstr "回复"
 
 msgid "Send Command"
-msgstr "Wyślij polecenie"
+msgstr "发送命令"
 
 msgid "Sending commands to modem"
-msgstr "Wysyłanie poleceń do modemu"
+msgstr "正在向调制解调器发送命令"
 
 msgid "Please enter a AT Command"
-msgstr "Proszę podać polecenie do wysłania"
+msgstr "请输入一个 AT 命令"
 
 msgid "Atinout Configuration"
-msgstr "Konfiguracja atinout"
+msgstr "Atinout 配置"
 
 msgid "AT Commands Terminal Settings"
-msgstr "Ustawnienia dla terminala"
+msgstr "AT 命令终端设置"
 
 msgid "AT Command Sending Port"
-msgstr "Port do komunikacji"
+msgstr "AT 命令发送端口"
 
 msgid "Configuration panel for atinout."
-msgstr "Panel ustawień dla atinout."
+msgstr "Atinout 的配置面板。"
 
 msgid "Each line must have the following format: 'AT Command name;AT Command'. Save to file '/etc/config/atcommands.user'."
-msgstr "Każda linijka powinna mieć następujący format: 'Etykieta polecenia;Polecenie AT'. Dla wygody polecenia użytkownika zapisywane są w pliku '/etc/config/atcommands.user'."
+msgstr "每行必须采用如下格式：“AT 命令名称;AT 命令”。用户命令将保存至文件 '/etc/config/atcommands.user'。"
